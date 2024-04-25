@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\listele\listele\bin\Debug\listele.exe
+C:\Users\Admin\Desktop\listele\listele\bin\Debug\listele.pdb
+C:\Users\Admin\Desktop\listele\listele\obj\x86\Debug\listele.Form1.resources
+C:\Users\Admin\Desktop\listele\listele\obj\x86\Debug\listele.Properties.Resources.resources
+C:\Users\Admin\Desktop\listele\listele\obj\x86\Debug\listele.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\listele\listele\obj\x86\Debug\listele.exe
+C:\Users\Admin\Desktop\listele\listele\obj\x86\Debug\listele.pdb
+C:\Users\Admin\Desktop\listele\listele\obj\x86\Debug\listele.csprojResolveAssemblyReference.cache
